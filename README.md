@@ -1,2 +1,2 @@
-# SampleRepository
-Descripcion sample repository
+# sample-repository
+Sample project GitHub repository
